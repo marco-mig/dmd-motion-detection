@@ -1,6 +1,6 @@
-# Real-Time Video Surveillance Using Dynamic Mode Decomposition 
+# Real-Time Motion Detection Using Dynamic Mode Decomposition 
 
-This GitHub repository includes all of the necessary files and scripts in order to generate the figures in the paper 'Real-Time Video Surveillance Using Dynamic Mode Decomposition' by Marco Mignacca, Simone Brugiapaglia and Jason Bramburger. 
+This GitHub repository includes all of the necessary files and scripts in order to generate the figures in the paper 'Real-Time Motion Detection Using Dynamic Mode Decomposition' by Marco Mignacca, Simone Brugiapaglia and Jason Bramburger. 
 
 # Matlab Information 
 
