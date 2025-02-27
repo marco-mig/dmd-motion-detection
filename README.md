@@ -15,3 +15,5 @@ The remaining files are functions called to generate the figures in the paper.
 The 'Omegas' folder contains the matrices of eigenvalues for each of the 20 videos in the database stored in txt files. These must be relocated to be in the same folder as the codes prior to use. 
 
 The 'Videos' folder contains the resized gate video from the Background Models Challenge database (http://backgroundmodelschallenge.eu) which must be relocated to the same folder as the codes prior to use. 
+
+The file 'MW_Optimizing_Threshold.m' performs the threshold optimization procedure on six test videos in the Microsoft Wallflower database https://www.microsoft.com/en-us/download/details.aspx?id=54651. The matrixes of eigenvalues are pre-calculated and can be found in the 'Microsoft_Wallflower_Omegas' folder. 
